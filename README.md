@@ -1,0 +1,3 @@
+# spring_websocket
+spring和websocket的简单集成使用
+包含服务端和2种客户端的演示,HTML客户端和JAVA客户端
